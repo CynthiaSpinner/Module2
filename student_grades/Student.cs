@@ -10,8 +10,8 @@ namespace student_grades
     public class Student
     {
 
-        public string? Name { get; set; } //change null with value input
-        public int Id { get; set; }
+        public string Name { get; set; } = ""; //change null with value input
+        public int ID { get; set; } = 0;
         public List<double> Grades { get; set; } = []; //short for instantiating??? Research.
 
 
