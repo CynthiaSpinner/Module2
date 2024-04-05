@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Student student = new Student();
+
+            student.CalculateAverageGrade();
         }
     }
 }

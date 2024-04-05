@@ -1,0 +1,15 @@
+C:\Users\cynth\Desktop\Repos\student_grades\student_grades\bin\Debug\net8.0\student_grades.exe
+C:\Users\cynth\Desktop\Repos\student_grades\student_grades\bin\Debug\net8.0\student_grades.deps.json
+C:\Users\cynth\Desktop\Repos\student_grades\student_grades\bin\Debug\net8.0\student_grades.runtimeconfig.json
+C:\Users\cynth\Desktop\Repos\student_grades\student_grades\bin\Debug\net8.0\student_grades.dll
+C:\Users\cynth\Desktop\Repos\student_grades\student_grades\bin\Debug\net8.0\student_grades.pdb
+C:\Users\cynth\Desktop\Repos\student_grades\student_grades\obj\Debug\net8.0\student_grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cynth\Desktop\Repos\student_grades\student_grades\obj\Debug\net8.0\student_grades.AssemblyInfoInputs.cache
+C:\Users\cynth\Desktop\Repos\student_grades\student_grades\obj\Debug\net8.0\student_grades.AssemblyInfo.cs
+C:\Users\cynth\Desktop\Repos\student_grades\student_grades\obj\Debug\net8.0\student_grades.csproj.CoreCompileInputs.cache
+C:\Users\cynth\Desktop\Repos\student_grades\student_grades\obj\Debug\net8.0\student_grades.sourcelink.json
+C:\Users\cynth\Desktop\Repos\student_grades\student_grades\obj\Debug\net8.0\student_grades.dll
+C:\Users\cynth\Desktop\Repos\student_grades\student_grades\obj\Debug\net8.0\refint\student_grades.dll
+C:\Users\cynth\Desktop\Repos\student_grades\student_grades\obj\Debug\net8.0\student_grades.pdb
+C:\Users\cynth\Desktop\Repos\student_grades\student_grades\obj\Debug\net8.0\student_grades.genruntimeconfig.cache
+C:\Users\cynth\Desktop\Repos\student_grades\student_grades\obj\Debug\net8.0\ref\student_grades.dll
