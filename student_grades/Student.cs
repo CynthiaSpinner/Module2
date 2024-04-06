@@ -10,9 +10,9 @@ namespace student_grades
     public class Student
     {
 
-        public string Name { get; set; } = ""; //change null with value input
+        public string Name { get; set; } = ""; 
         public int ID { get; set; } = 0;
-        public List<double> Grades { get; set; } = []; //short for instantiating??? Research.
+        public List<double> Grades { get; set; } = []; //Remember: short for instantiating.
 
 
 
@@ -31,14 +31,11 @@ namespace student_grades
         {
             // if (Grades.Count == 0) return 0;
             // return Grades.Average();
-
-            // Which one is better for CCR?
-            // vvvvvvv ternary is a simple one. 
+                        
             double total = Grades.Any() ? Grades.Average() : 0; 
-            //ternary to check if the list has items??
+            //ternary is fine here.
 
-            // Think about which one to use. May change later.
-            //Console.WriteLine(total); <= works
+            
             return total;
         }
     }

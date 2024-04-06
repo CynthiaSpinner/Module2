@@ -17,7 +17,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 209,
+          "DockedWidth": 201,
           "SelectedChildIndex": 2,
           "Children": [
             {
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "student_grades\\Student.cs",
               "ToolTip": "C:\\Users\\cynth\\Desktop\\Repos\\student_grades\\student_grades\\Student.cs",
               "RelativeToolTip": "student_grades\\Student.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACUAAAAIAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-05T17:52:58.502Z",
               "EditorCaption": ""
@@ -44,7 +44,7 @@
           ]
         },
         {
-          "DockedWidth": 200,
+          "DockedWidth": 208,
           "SelectedChildIndex": 1,
           "Children": [
             {
@@ -59,7 +59,7 @@
               "RelativeDocumentMoniker": "student_grades\\Program.cs",
               "ToolTip": "C:\\Users\\cynth\\Desktop\\Repos\\student_grades\\student_grades\\Program.cs",
               "RelativeToolTip": "student_grades\\Program.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAwwDUAAAAJAAAA",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwFEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-05T17:52:21.962Z",
               "EditorCaption": ""

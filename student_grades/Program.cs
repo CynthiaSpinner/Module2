@@ -1,4 +1,6 @@
-﻿namespace student_grades
+﻿using System.Diagnostics;
+
+namespace student_grades
 {
     public class Program
     {
@@ -18,7 +20,8 @@
                 Grades = [98.4, 99.6, 100, 100, 100]
 
             };
-            
+            student1.AddGrade(98.6);
+            student1.AddGrade(89.5, 100, 99.5);
 
             Student student2 = new Student()
             {
@@ -26,6 +29,8 @@
                 ID = 2341,
                 Grades = [99.8, 100, 100, 85, 100]
             };
+            student2.AddGrade(100);
+            student2.AddGrade(100, 100, 99.9);
 
             Student student3 = new Student()
             {
@@ -33,6 +38,8 @@
                 ID = 3412,
                 Grades = [72.4, 67.5, 65, 70.1, 27.5]
             };
+            student3.AddGrade(100);
+            student3.AddGrade(75.3, 68.7, 90);
 
             Student student4 = new Student()
             {
@@ -40,19 +47,35 @@
                 ID = 4123,
                 Grades = [75.8, 88.2, 84.5, 89.3, 99.5]
             };
+            student4.AddGrade(82.5);
+            student4.AddGrade(92.4, 90, 88);
 
             students.AddRange([student1, student2, student3, student4]);
 
-            foreach (Student item in students) // testing to see if students list was populated correctly 
+            foreach (Student item in students)  
             {
                 Console.WriteLine($"Name: {item.Name}");
                 Console.WriteLine($"ID: {item.ID}");
-                Console.WriteLine($"Grades: {item.Grades}");
-                Console.WriteLine(item.CalculateAverageGrade());// wondeing if i can get student average
-                //it works!! but need to correct decimal to round up to hundreths place 
+                
+                Console.WriteLine($"Grades:");
+                                
+                foreach (double grade in item.Grades)
+                {
+                    Console.Write($"{grade}, ");
+                }
+
+                Console.WriteLine();
+                Console.WriteLine("Average:");
+                Console.WriteLine(Math.Round(item.CalculateAverageGrade(), 1));// decided on tenth place instead
+                
+                Console.WriteLine();
+
+                Console.WriteLine("----------------");
+
+                Console.WriteLine();
             }
         }
 
-        //may have went ahead but I was wondering... oops!
+        
     }
 }
