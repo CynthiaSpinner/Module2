@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\cynth\\Desktop\\Repos\\student_grades\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08723B93-694F-46CD-9ECD-7786521014F1}|student_grades\\student_grades.csproj|c:\\users\\cynth\\desktop\\repos\\student_grades\\student_grades\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08723B93-694F-46CD-9ECD-7786521014F1}|student_grades\\student_grades.csproj|solutionrelative:student_grades\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{08723B93-694F-46CD-9ECD-7786521014F1}|student_grades\\student_grades.csproj|c:\\users\\cynth\\desktop\\repos\\student_grades\\student_grades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08723B93-694F-46CD-9ECD-7786521014F1}|student_grades\\student_grades.csproj|solutionrelative:student_grades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08723B93-694F-46CD-9ECD-7786521014F1}|student_grades\\student_grades.csproj|c:\\users\\cynth\\desktop\\repos\\student_grades\\student_grades\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08723B93-694F-46CD-9ECD-7786521014F1}|student_grades\\student_grades.csproj|solutionrelative:student_grades\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08723B93-694F-46CD-9ECD-7786521014F1}|student_grades\\student_grades.csproj|c:\\users\\cynth\\desktop\\repos\\student_grades\\student_grades\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08723B93-694F-46CD-9ECD-7786521014F1}|student_grades\\student_grades.csproj|solutionrelative:student_grades\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,12 +35,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cynth\\Desktop\\Repos\\student_grades\\student_grades\\Program.cs",
+              "RelativeDocumentMoniker": "student_grades\\Program.cs",
+              "ToolTip": "C:\\Users\\cynth\\Desktop\\Repos\\student_grades\\student_grades\\Program.cs",
+              "RelativeToolTip": "student_grades\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T14:07:19.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\cynth\\Desktop\\Repos\\student_grades\\student_grades\\Course.cs",
+              "RelativeDocumentMoniker": "student_grades\\Course.cs",
+              "ToolTip": "C:\\Users\\cynth\\Desktop\\Repos\\student_grades\\student_grades\\Course.cs",
+              "RelativeToolTip": "student_grades\\Course.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T13:45:36.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\cynth\\Desktop\\Repos\\student_grades\\student_grades\\Student.cs",
               "RelativeDocumentMoniker": "student_grades\\Student.cs",
               "ToolTip": "C:\\Users\\cynth\\Desktop\\Repos\\student_grades\\student_grades\\Student.cs",
               "RelativeToolTip": "student_grades\\Student.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-05T17:52:58.502Z",
               "EditorCaption": ""
@@ -45,24 +75,11 @@
         },
         {
           "DockedWidth": 208,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\cynth\\Desktop\\Repos\\student_grades\\student_grades\\Program.cs",
-              "RelativeDocumentMoniker": "student_grades\\Program.cs",
-              "ToolTip": "C:\\Users\\cynth\\Desktop\\Repos\\student_grades\\student_grades\\Program.cs",
-              "RelativeToolTip": "student_grades\\Program.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAwwFEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T17:52:21.962Z",
-              "EditorCaption": ""
             }
           ]
         }

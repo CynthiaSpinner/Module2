@@ -7,14 +7,14 @@ using System.Threading.Tasks;
 
 namespace student_grades
 {
-    public class Student
+    public class Student 
     {
-
+        
         public string Name { get; set; } = ""; 
         public int ID { get; set; } = 0;
-        public List<double> Grades { get; set; } = []; //Remember: short for instantiating.
+        public List<double> Grades { get; set; } = []; //Note to self: short for instantiating.
 
-
+       
 
         public void AddGrade(double grade)
         {
@@ -38,6 +38,8 @@ namespace student_grades
             
             return total;
         }
+
+        
     }
 
 
